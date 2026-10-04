@@ -50,39 +50,7 @@ These examples are stored in the GitHub directory:
 
 ---
 
-## 3. Explanation of Colab Documents
-
-### Colab 1 — Basic Machine Learning Model
-
-This Colab demonstrates how to:
-
-- load a structured dataset  
-- split data into training/testing  
-- train a simple ML model (Perceptron, Logistic Regression, Decision Tree)  
-- evaluate accuracy  
-- generate predictions  
-
-**Relation to the thesis:**  
-This Colab represents the **inference stage** of the pipeline, where the system predicts the risk level (y) from student features (X).
-
----
-
-### Colab 2 — Full ML Pipeline with Preprocessing
-
-This Colab includes:
-
-- data cleaning  
-- feature scaling  
-- encoding categorical variables  
-- training a more advanced model (Random Forest, Gradient Boosting)  
-- confusion matrix and evaluation metrics  
-
-**Relation to the thesis:**  
-This Colab represents the **data understanding + inference** stages, showing how to prepare and process data before prediction.
-
----
-
-## 4. Preliminary Process Model (Pipeline Diagram)
+## 3. Preliminary Process Model (Pipeline Diagram)
 
 ### Process Stages
 
@@ -94,7 +62,7 @@ This Colab represents the **data understanding + inference** stages, showing how
 
 ---
 
-## 5. Hand-Drawn Diagram (ASCII Version)
+## 4. Hand-Drawn Diagram (ASCII Version)
 
 +----------------------+
 |   Input Data (X)     |
