@@ -169,4 +169,47 @@ These skills are essential for building intelligent educational systems that rel
 
 ---
 
++--------------------------------------------------+
+|            Intelligent Information System         |
+|        for Student Performance Monitoring         |
++--------------------------------------------------+
+
+                ┌──────────────────────┐
+                │   Input Data (X)     │
+                │  - attendance         │
+                │  - grades             │
+                │  - participation      │
+                │  - submissions        │
+                └──────────┬───────────┘
+                           │
+                           ▼
+                ┌──────────────────────┐
+                │   Data Understanding  │
+                │  - cleaning           │
+                │  - validation         │
+                │  - feature selection  │
+                └──────────┬───────────┘
+                           │
+                           ▼
+                ┌────────────────────────────┐
+                │     AI Reasoning (Gemini)   │
+                │  - zero-shot prompts        │
+                │  - few-shot examples        │
+                └──────────┬─────────────────┘
+                           │
+                           ▼
+                ┌──────────────────────┐
+                │     ML Inference     │
+                │  - risk prediction   │
+                │  - low/medium/high   │
+                └──────────┬───────────┘
+                           │
+                           ▼
+                ┌────────────────────────────┐
+                │   Output Generation (y)     │
+                │  - explanation              │
+                │  - recommendations          │
+                └────────────────────────────┘
+
+
 # End of Lab 1.2
