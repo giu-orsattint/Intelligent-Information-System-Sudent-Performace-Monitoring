@@ -169,34 +169,4 @@ These skills are essential for building intelligent educational systems that rel
 
 ---
 
-## 5. Hand-Drawn Diagram (ASCII Version)
-
-+----------------------+
-|   Input Data (X)     |
-+----------------------+
-|
-v
-+----------------------+
-|  Data Understanding  |
-+----------------------+
-|
-v
-+------------------------------+
-|   AI Reasoning (Gemini)      |
-|  Zero-shot / Few-shot prompts|
-+------------------------------+
-|
-v
-+----------------------+
-|   ML Inference       |
-|  (Risk Prediction y) |
-+----------------------+
-|
-v
-+------------------------------+
-| Output: Risk Level + Advice |
-+------------------------------+
-
----
-
 # End of Lab 1.2
